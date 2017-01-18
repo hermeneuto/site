@@ -4,5 +4,5 @@ type=page
 status=published
 ~~~~~~
 
-= To Explore, To Experiment
-Exploring the grand unification of facts and values by experimenting with technologies and games
+== Merge
+Exploring the merging of facts and values by experimenting with technologies and games
