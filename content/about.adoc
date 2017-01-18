@@ -1,0 +1,8 @@
+title=About
+date=2017-01-17
+type=page
+status=published
+~~~~~~
+
+= To Explore, To Experiment
+Exploring the grand unification of facts and values by experimenting with technologies and games
