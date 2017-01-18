@@ -4,7 +4,10 @@ type=post
 tags=blog, asciidoc
 status=published
 ~~~~~~
+
 = First Post
 J.
-2013-10-17
+2017-01-17
 
+
+This is first post. Using JBake.
